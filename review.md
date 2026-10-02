@@ -1,11 +1,3 @@
-入力：py review-target.py　結果：2026-10-02の予定 3 件が出力される
-→ 引数がない場合dateが当日「2026-10-02」をデフォルトとしている
-
-入力：py review-target.py 2026-10-03　結果：2026-10-03 の予定 0 件
-→ 引数が指定されたため0件で表示された
-
-エラー：ren schedule.json schedule.json.bak py schedule.py 2026-10-02　結果：schedule.json がありません。同じフォルダに schedule.json を置いてください。
-
 ## 誤り1
     何行目：
     何が起きる：
